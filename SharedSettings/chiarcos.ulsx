@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserLexiconSettings>
+  <WritingSystems>
+    <WritingSystem id="en">
+      <LocalKeyboard>de_xkb:de::ger</LocalKeyboard>
+      <DefaultFontName>Charis SIL</DefaultFontName>
+    </WritingSystem>
+    <WritingSystem id="sux">
+      <LocalKeyboard>de_xkb:de::ger</LocalKeyboard>
+      <KnownKeyboards>
+        <KnownKeyboard>de_xkb:de::ger</KnownKeyboard>
+      </KnownKeyboards>
+      <DefaultFontName>Charis SIL</DefaultFontName>
+      <IsGraphiteEnabled>false</IsGraphiteEnabled>
+    </WritingSystem>
+  </WritingSystems>
+</UserLexiconSettings>

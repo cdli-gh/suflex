@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WritingSystemChangeLog
+	Version="1">
+	<Changes>
+		<Add
+			Producer="FieldWorks"
+			ProducerVersion="Version 9.0.17 (apparent build date: 14-Jul-2021)"
+			TimeStamp="2021-11-22T15:07:00Z">
+			<Id>en</Id>
+		</Add>
+		<Add
+			Producer="FieldWorks"
+			ProducerVersion="Version 9.0.17 (apparent build date: 14-Jul-2021)"
+			TimeStamp="2021-11-22T15:07:00Z">
+			<Id>sux</Id>
+		</Add>
+	</Changes>
+</WritingSystemChangeLog>

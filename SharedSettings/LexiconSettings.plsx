@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectLexiconSettings projectSharing="false">
+  <WritingSystems addToSldr="true">
+    <WritingSystem id="en">
+      <Abbreviation>Eng</Abbreviation>
+      <LanguageName>English</LanguageName>
+    </WritingSystem>
+    <WritingSystem id="sux">
+      <Abbreviation>Sum</Abbreviation>
+      <LanguageName>Sumerian</LanguageName>
+      <SpellCheckingId>sux</SpellCheckingId>
+    </WritingSystem>
+  </WritingSystems>
+</ProjectLexiconSettings>
