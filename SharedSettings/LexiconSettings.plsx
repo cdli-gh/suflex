@@ -9,6 +9,7 @@
       <Abbreviation>Sum</Abbreviation>
       <LanguageName>Sumerian</LanguageName>
       <SpellCheckingId>sux</SpellCheckingId>
+      <SystemCollation />
     </WritingSystem>
   </WritingSystems>
 </ProjectLexiconSettings>
